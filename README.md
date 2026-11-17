@@ -6,4 +6,5 @@ Rumbo Carrera (rumbocarrera.com): orientación profesional para personas con exp
 
 * Sitio: https://rumbocarrera.com
 * Instagram: https://www.instagram.com/rumbocarrera/
+* LinkedIn: https://www.linkedin.com/company/145456708/
 * Datos abiertos: https://github.com/jpaulrodriguez/rumbo-datos-abiertos
